@@ -81,3 +81,5 @@ require (
 	storj.io/common v0.0.0-20210203145648-3768017a858e // indirect
 	storj.io/uplink v1.4.5
 )
+
+replace github.com/ncw/swift/v2 => github.com/jetpackdanger/swift/v2 empty-result-sentinel
